@@ -6,7 +6,7 @@ A responsive personal portfolio showcasing my experience in full-stack engineeri
 
 The portfolio is available on Vercel:
 
-**https://flying-juniper-pk6jeac.tmp.now/**
+**https://piyush-portfolio.vercel.app/**
 
 The GitHub repository is also available at:
 
