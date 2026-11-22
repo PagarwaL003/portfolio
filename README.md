@@ -4,7 +4,11 @@ A responsive personal portfolio showcasing my experience in full-stack engineeri
 
 ## Live Site
 
-The portfolio is published through GitHub Pages:
+The portfolio is available on Vercel:
+
+**https://flying-juniper-pk6jeac.tmp.now/**
+
+The GitHub repository is also available at:
 
 **https://pagarwal003.github.io/portfolio/**
 
