@@ -2,13 +2,9 @@
 
 A responsive personal portfolio showcasing my experience in full-stack engineering, applied AI, on-device machine learning, projects, skills, and achievements.
 
-## Live Site
+## Repository
 
-The portfolio is available on Vercel:
-
-**https://piyush-portfolio.vercel.app/**
-
-The GitHub repository is also available at:
+The GitHub repository is available at:
 
 **https://pagarwal003.github.io/portfolio/**
 
